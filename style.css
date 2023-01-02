@@ -1,0 +1,38 @@
+.header {
+    height: 200px;
+    background-image: url("image/11.jpg");
+    /* background-image: url('w3css.gif'); */
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: center;
+    /* background-origin: content-box; */
+    background-color: beige;
+    background-blend-mode: multiply;
+    text-align: center;
+    /* background-size: cover; */
+    background-size: contain;
+
+
+}
+
+img.header {
+    height: 200px;
+    width: 200px;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline wavy gray;
+
+
+}
+
+.cercel {
+    color: brown;
+    border: 10px solid red;
+    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+    background-color: rgba(137, 43, 226, 0.578);
+    padding: 20px;
+}
